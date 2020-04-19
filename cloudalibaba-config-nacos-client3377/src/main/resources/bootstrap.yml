@@ -20,3 +20,17 @@ spring:
 # nacos-config-client-dev.yaml
 
 # nacos-config-client-test.yaml   ----> config.info
+
+
+#nacos + gateway 实现动态路由
+
+
+
+
+
+
+
+
+
+
+

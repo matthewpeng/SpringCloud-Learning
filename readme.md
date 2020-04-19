@@ -69,7 +69,7 @@ QPS 线程
 异常数 (DEGRADE_GRADE_EXCEPTION_COUNT)：
 当资源近 1 分钟的异常数目超过阈值之后会进行熔断。
 
-
+124 热点key上
 
 
 
