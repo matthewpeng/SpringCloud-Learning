@@ -1,4 +1,5 @@
 用于springcloud学习
+https://www.bilibili.com/video/BV1yE411x7Ky
 
 1 学习 nacso 作为 注册中心 与 配置中心
 下载
@@ -20,7 +21,8 @@ db.password=root123
 
 Nacos实现Spring Cloud Gateway的动态路由
 
-2 sentinel     降级 限流 熔断 雪崩 https://sentinelguard.io/zh-cn/docs/introduction.html
+2 sentinel     降级 限流 熔断 雪崩 https://sentinelguard.io/zh-cn/docs/introduction.html 
+https://github.com/alibaba/Sentinel/wiki
 下载
 https://github.com/alibaba/Sentinel/releases
 运行 java -jar sentinel-dashboard-1.7.0.jar 
@@ -70,10 +72,11 @@ QPS 线程
 当资源近 1 分钟的异常数目超过阈值之后会进行熔断。
 
 124 热点key上
+https://github.com/alibaba/Sentinel/wiki/%E7%83%AD%E7%82%B9%E5%8F%82%E6%95%B0%E9%99%90%E6%B5%81
 
+@SentinelResource 按资源名称限流
 
-
-
+消费者 84 消费 提供者 9003 9004 http://localhost:84/consumer/fallback/1 
 
 
 

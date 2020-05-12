@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class RateLimitController {
-    @GetMapping("/byResource")
+    @GetMapping("/byResource")//资源名称  byResource 在sentinel 后台显示的名称
     @SentinelResource(value = "byResource", blockHandler = "handleException")
     public CommonResult byResource() {
         return new CommonResult(200, "按资源名称限流测试OK", new Payment(2020L, "serial001"));
@@ -29,6 +29,7 @@ public class RateLimitController {
     }
 
 
+    //自定义 customerBlockHandler
     @GetMapping("/rateLimit/customerBlockHandler")
     @SentinelResource(value = "customerBlockHandler",
             blockHandlerClass = CustomerBlockHandler.class,
