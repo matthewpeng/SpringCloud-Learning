@@ -77,6 +77,13 @@ https://github.com/alibaba/Sentinel/wiki/%E7%83%AD%E7%82%B9%E5%8F%82%E6%95%B0%E9
 @SentinelResource 按资源名称限流
 
 消费者 84 消费 提供者 9003 9004 http://localhost:84/consumer/fallback/1 
+熔断降级 
+
+流控规则的服务一重启 就没了
+需要持久化
+
+持久保存到nacos
+sentinel-datasource-nacos
 
 
 
