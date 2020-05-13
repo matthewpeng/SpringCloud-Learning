@@ -32,4 +32,9 @@ nacos-payment-provider: # eureka-client 表示作用到哪个微服务
         # NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RetryRule #配置规则 重试
         # NFLoadBalancerRuleClassName: com.netflix.loadbalancer.WeightedResponseTimeRule #配置规则 响应时间权重
         # 我们也可以指定为其他策略，包括我们自己定义的，只要把相应的包路径写到这即可。
-        NFLoadBalancerRuleClassName: com.matthew.practice.lb.CustomerBalancerRule
+          NFLoadBalancerRuleClassName: com.matthew.practice.lb.CustomerBalancerRule
+        #设置feign客户端超时时间(OpenFeign默认支持ribbon)
+          #指的是建立连接所用的时间，适用于网络状况正常的情况下,两端连接所用的时间
+          ReadTimeout: 5000
+          #指的是建立连接后从服务器读取到可用资源所用的时间
+          ConnectTimeout: 5000

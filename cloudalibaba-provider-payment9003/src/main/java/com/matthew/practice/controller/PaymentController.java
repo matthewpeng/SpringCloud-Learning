@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.HashMap;
+import java.util.concurrent.TimeUnit;
 
 @RestController
 public class PaymentController {
@@ -24,14 +25,18 @@ public class PaymentController {
 
     @GetMapping(value = "/paymentSQL/{id}")
     public CommonResult<Payment> paymentSQL(@PathVariable("id") Long id) {
+        try {
+            TimeUnit.SECONDS.sleep(3);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         Payment payment = hashMap.get(id);
         CommonResult<Payment> result = new CommonResult(200, "from mysql,serverPort:  " + serverPort, payment);
         return result;
     }
 
     @GetMapping(value = "/payment/lb")
-    public String getPaymentLB()
-    {
+    public String getPaymentLB() {
         return serverPort;
     }
 
