@@ -116,7 +116,9 @@ irule接口
 第几次调用接口 % 集群数量 = 调用服务器的位置下标  重启从1开始
 cas 自旋锁
 
-OpenFeign  集成了ribbon  轮询 与ribbon 只需要定义一下接口 不在用 与 ribbon restTemplate
+OpenFeign  集成了ribbon  
+ribbon 配置 或者 实现IRule 自定义负载均衡算法 
+不再用ribbon的restTemplate调用远程服务
 主要用在消费者端作为服务调用
 
 
