@@ -121,6 +121,9 @@ ribbon 配置 或者 实现IRule 自定义负载均衡算法
 不再用ribbon的restTemplate调用远程服务
 主要用在消费者端作为服务调用
 
+设置feign客户端超时时间(OpenFeign默认支持ribbon)
+
+feign日志 查看请求详细信息 请求头...
 
 
 
