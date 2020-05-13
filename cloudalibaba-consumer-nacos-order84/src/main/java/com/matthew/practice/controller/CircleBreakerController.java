@@ -4,8 +4,11 @@ import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.alibaba.csp.sentinel.slots.block.BlockException;
 import com.matthew.practice.entities.CommonResult;
 import com.matthew.practice.entities.Payment;
+import com.matthew.practice.lb.LoadBalancer;
 import com.matthew.practice.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.cloud.client.ServiceInstance;
+import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -13,6 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 import javax.annotation.Resource;
+import java.net.URI;
+import java.util.List;
 
 @RestController
 @Slf4j
@@ -21,6 +26,11 @@ public class CircleBreakerController {
 
     @Resource
     private RestTemplate restTemplate;
+    @Resource
+    private LoadBalancer loadBalancer;
+    @Resource
+    private DiscoveryClient discoveryClient;
+
 
     @RequestMapping("/consumer/fallback/{id}")
 //    @SentinelResource(value = "fallback") //没有配置
@@ -55,9 +65,28 @@ public class CircleBreakerController {
     //==================OpenFeign
     @Resource
     private PaymentService paymentService;
+
     //服务关闭了 实现服务降级返回
     @GetMapping(value = "/consumer/paymentSQL/{id}")
     public CommonResult<Payment> paymentSQL(@PathVariable("id") Long id) {
         return paymentService.paymentSQL(id);
     }
+
+
+    //===============ribbon 自定义负载均衡算法
+    @GetMapping(value = "/consumer/payment/lb")
+    public String getPaymentLB() {
+        List<ServiceInstance> instances = discoveryClient.getInstances("nacos-payment-provider");
+
+        if (instances == null || instances.size() <= 0) {
+            return null;
+        }
+
+        ServiceInstance serviceInstance = loadBalancer.instances(instances);
+        URI uri = serviceInstance.getUri();
+
+        return restTemplate.getForObject(uri + "/payment/lb", String.class);
+
+    }
+
 }

@@ -108,6 +108,14 @@ sentinel-datasource-nacos
             
 https://www.bilibili.com/video/BV1yE411x7Ky?p=138 
 
+ribbon 轮训改成随便 不能放在扫描包下面
+@RibbonClient(name = "nacos-payment-provider",configuration= MySelfRule.class)
+irule接口
+
+轮询算法
+第几次调用接口 % 集群数量 = 调用服务器的位置下标  重启从1开始
+cas 自旋锁
+
 
 
 

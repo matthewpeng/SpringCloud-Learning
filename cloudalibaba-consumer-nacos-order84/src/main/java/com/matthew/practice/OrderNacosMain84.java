@@ -10,7 +10,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @EnableDiscoveryClient
 @SpringBootApplication
 @EnableFeignClients
-@RibbonClient(name = "nacos-payment-provider",configuration= MySelfRule.class)
+//@RibbonClient(name = "nacos-payment-provider",configuration= MySelfRule.class)
 public class OrderNacosMain84 {
     public static void main(String[] args) {
         SpringApplication.run(OrderNacosMain84.class, args);
