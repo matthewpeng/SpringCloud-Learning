@@ -24,3 +24,12 @@ service-url:
 feign:
   sentinel:
     enabled: true
+
+nacos-payment-provider: # eureka-client 表示作用到哪个微服务
+      ribbon:
+        # NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule #配置规则 随机
+#         NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule #配置规则 轮询
+        # NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RetryRule #配置规则 重试
+        # NFLoadBalancerRuleClassName: com.netflix.loadbalancer.WeightedResponseTimeRule #配置规则 响应时间权重
+        # 我们也可以指定为其他策略，包括我们自己定义的，只要把相应的包路径写到这即可。
+        NFLoadBalancerRuleClassName: com.matthew.practice.lb.CustomerBalancerRule
