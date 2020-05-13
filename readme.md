@@ -84,8 +84,29 @@ https://github.com/alibaba/Sentinel/wiki/%E7%83%AD%E7%82%B9%E5%8F%82%E6%95%B0%E9
 
 持久保存到nacos
 sentinel-datasource-nacos
-
-
+  流控规则持久化
+      [
+        {
+          "resource": "/rateLimit/byUrl",
+          "limitApp": "default",
+          "grade": 1,
+          "count": 1,
+          "strategy": 0,
+          "controlBehavior": 0,
+          "clusterMode": false
+        }
+      ]
+      datasource:
+        ds1:
+          nacos:
+            server-addr: localhost:8848
+            dataId: cloudalibaba-sentinel-service
+            groupId: DEFAULT_GROUP
+            data-type: json
+            rule-type: flow
+            
+            
+https://www.bilibili.com/video/BV1yE411x7Ky?p=138 
 
 
 
