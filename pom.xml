@@ -19,6 +19,7 @@
         <module>cloudalibaba-consumer-nacos-order84</module>
         <module>cloudalibaba-provider-payment9003</module>
         <module>cloudalibaba-provider-payment9004</module>
+        <module>cloud-gateway-gateway9527</module>
     </modules>
 
     <!-- 统一管理jar包版本 -->

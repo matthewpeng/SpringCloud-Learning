@@ -125,5 +125,7 @@ ribbon 配置 或者 实现IRule 自定义负载均衡算法
 
 feign日志 查看请求详细信息 请求头...
 
+spring clound gateway 网关
+
 
 
