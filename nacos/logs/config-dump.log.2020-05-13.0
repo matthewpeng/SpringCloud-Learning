@@ -1,0 +1,8 @@
+2020-05-13 05:04:47,268 INFO [dump-all-ok] nacos-config-client-dev.yaml+DEV_GROUP, 1587141513000, length=112, md5=76108948bfda04b275e0616a862a129c
+
+2020-05-13 05:04:47,273 INFO [dump-all-ok] nacos-config-client-dev.yaml+DEFAULT_GROUP, 1587331495000, length=244, md5=86b25d1f77126b44ac9f37cc0d12bc16
+
+2020-05-13 05:04:47,276 INFO [dump-all-ok] zuul-refresh-dev.json+DEFAULT_GROUP, 1587334783000, length=419, md5=33c9d01db8bbd63b2c45f9cfedefcd34
+
+2020-05-13 07:01:03,624 WARN [dump-ignore] ignore to save cache file. groupKey=cloudalibaba-sentinel-service+DEFAULT_GROUP, md5=e0ebea12114b632a13c0e93b4e952059, lastModifiedOld=1589324294681, lastModifiedNew=1589324463265
+

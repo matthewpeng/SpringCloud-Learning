@@ -1,6 +1,5 @@
 src/main/java/com/xxx/commonservice/service/
 target/
-nacos/
 out/
 !.mvn/wrapper/maven-wrapper.jar
 classes/

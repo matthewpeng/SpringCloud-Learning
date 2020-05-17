@@ -1,0 +1,30 @@
+2020-04-21 00:25:32,593 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-21 00:25:32,594 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2020-04-21 00:25:32,682 INFO DEFAULT_GROUP@@spring-cloud-gateway-server is changed, add it to push queue.
+
+2020-04-21 02:14:19,200 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2020-04-21 02:14:19,201 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-21 02:14:19,317 INFO DEFAULT_GROUP@@spring-cloud-gateway-server is changed, add it to push queue.
+
+2020-04-21 02:46:00,634 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-21 02:46:00,635 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2020-04-21 02:46:00,757 INFO DEFAULT_GROUP@@spring-cloud-gateway-server is changed, add it to push queue.
+
+2020-04-21 06:52:19,822 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-21 06:52:19,823 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2020-04-21 06:52:19,950 INFO DEFAULT_GROUP@@spring-cloud-gateway-server is changed, add it to push queue.
+
+2020-04-21 11:15:04,725 INFO DEFAULT_GROUP@@spring-cloud-gateway-server is changed, add it to push queue.
+
+2020-04-21 20:03:40,606 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+
+2020-04-21 20:03:42,181 INFO DEFAULT_GROUP@@gateway-server is changed, add it to push queue.
+

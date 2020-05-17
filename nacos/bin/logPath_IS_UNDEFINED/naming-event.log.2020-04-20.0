@@ -1,0 +1,714 @@
+2020-04-20 00:11:09,011 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587310603029
+
+2020-04-20 00:11:09,242 INFO service: DEFAULT_GROUP@@gateway-server {POS} {IP-ENABLED} valid: 192.168.1.11:5008@DEFAULT, region: unknown, msg: client beat ok
+
+2020-04-20 00:11:09,442 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 00:11:09,443 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 00:11:09,866 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8082@DEFAULT@DEFAULT_GROUP@@spring-cloud-gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587310603965
+
+2020-04-20 00:11:09,909 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 00:11:09,909 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 00:11:09,980 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 00:11:09,980 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 00:11:14,045 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 00:11:14,045 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+
+2020-04-20 04:39:27,093 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8082@DEFAULT@DEFAULT_GROUP@@spring-cloud-gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587312715060
+
+2020-04-20 04:39:27,102 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 04:39:27,102 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 04:39:27,211 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 04:39:27,212 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 04:46:10,725 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 04:46:10,725 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 04:54:29,917 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 04:54:29,917 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 04:54:29,918 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 04:58:27,570 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 04:58:27,570 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 04:59:02,671 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 04:59:02,672 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 04:59:02,672 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:01:13,658 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:01:13,658 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:01:49,305 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:01:49,305 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:01:49,305 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:03:28,039 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:03:28,039 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:04:01,163 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:04:01,163 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:04:01,164 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:05:25,328 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:05:25,328 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:06:02,152 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:06:02,152 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:06:02,156 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:08:45,058 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:08:45,058 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:09:20,277 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:09:20,277 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:09:20,280 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:10:49,770 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:10:49,770 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:11:25,042 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:11:25,042 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:11:25,046 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:11:57,669 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:11:57,669 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:12:32,859 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:12:32,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:12:32,862 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:12:51,293 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:12:51,294 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:13:24,143 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:13:24,143 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:13:24,147 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:13:49,703 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:13:49,703 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:14:22,571 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:14:22,571 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:14:22,574 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:15:45,640 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:15:45,640 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 05:16:41,236 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:16:41,236 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:16:41,240 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 05:23:08,991 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:23:08,991 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:23:08,995 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:25:06,141 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:25:06,141 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 05:25:47,957 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:25:47,957 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:25:47,962 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:28:43,747 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:28:43,748 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 05:34:11,478 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:34:11,478 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:34:11,482 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:36:39,124 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:36:39,124 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 05:40:04,866 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:40:04,867 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:40:04,868 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:43:04,244 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:43:04,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 05:43:39,903 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 05:43:39,903 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 05:43:39,907 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 06:04:02,033 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:04:02,033 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 06:09:05,999 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:09:05,999 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 06:09:06,002 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 06:13:03,690 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:13:03,690 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 06:15:44,487 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:15:44,487 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 06:15:44,503 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 06:15:54,745 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:83:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:15:54,745 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.11:83_true,
+
+2020-04-20 06:15:54,745 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.11:83_true,
+
+2020-04-20 06:16:07,932 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:16:07,932 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 06:16:07,933 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:16:07,934 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 06:16:07,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 06:16:07,941 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 06:16:18,634 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:16:18,634 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 06:16:18,635 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:16:18,635 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 06:16:18,635 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 06:16:18,636 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 06:16:42,912 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:16:42,912 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 06:16:42,913 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:16:42,913 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 06:16:42,914 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 06:16:42,914 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 06:18:36,696 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:18:36,696 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 06:19:12,848 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 06:19:12,848 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 06:19:12,851 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 07:08:00,788 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:9001@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1587335785257
+
+2020-04-20 07:08:00,788 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:9001@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1587335785257
+
+2020-04-20 07:08:00,790 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:9002@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1587335785859
+
+2020-04-20 07:08:00,860 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:08:00,860 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9002_false,
+
+2020-04-20 07:08:00,880 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 2, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_false_false_DEFAULT, 192.168.1.11:9002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:08:00,880 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-04-20 07:08:00,885 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:08:00,885 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-04-20 07:08:00,886 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-04-20 07:08:02,425 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8401@DEFAULT@DEFAULT_GROUP@@cloudalibaba-sentinel-service, region: unknown, msg: client timeout after 15000, last beat: 1587335785082
+
+2020-04-20 07:08:02,431 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:08:02,431 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 07:08:02,431 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:08:02,431 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 07:08:02,432 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 07:08:02,432 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 07:08:02,437 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:08:02,437 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 07:08:02,437 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:08:02,437 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 07:08:02,606 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:08:02,606 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 07:08:02,606 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:08:02,606 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 07:08:02,836 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587335785598
+
+2020-04-20 07:08:02,838 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:08:02,838 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 07:08:02,929 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:08:02,929 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+
+2020-04-20 07:08:03,207 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:08:03,207 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 07:08:03,208 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:08:03,208 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 07:46:04,168 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8082@DEFAULT@DEFAULT_GROUP@@spring-cloud-gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587337727220
+
+2020-04-20 07:46:04,172 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:46:04,173 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 07:46:06,430 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:9001@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1587337727710
+
+2020-04-20 07:46:06,439 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:46:06,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9002_true,
+
+2020-04-20 07:46:06,439 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:46:06,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9002_true,
+
+2020-04-20 07:46:06,442 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9002_true,
+
+2020-04-20 07:46:06,442 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9002_true,
+
+2020-04-20 07:46:07,805 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:46:07,805 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 07:46:08,047 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8401@DEFAULT@DEFAULT_GROUP@@cloudalibaba-sentinel-service, region: unknown, msg: client timeout after 15000, last beat: 1587337727535
+
+2020-04-20 07:46:08,052 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:46:08,052 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 07:46:08,052 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 07:46:08,052 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 07:46:08,124 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:46:08,124 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 07:46:08,125 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:46:08,125 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 07:46:08,291 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:46:08,291 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 07:46:08,291 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 07:46:08,292 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 10:52:32,002 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:3377@DEFAULT@DEFAULT_GROUP@@nacos-config-client, region: unknown, msg: client timeout after 15000, last beat: 1587340012695
+
+2020-04-20 10:52:32,003 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8401@DEFAULT@DEFAULT_GROUP@@cloudalibaba-sentinel-service, region: unknown, msg: client timeout after 15000, last beat: 1587340008204
+
+2020-04-20 10:52:32,122 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 10:52:32,122 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 10:52:32,131 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 10:52:32,131 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 10:52:32,131 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 10:52:32,131 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 10:52:32,132 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 10:52:32,133 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 10:52:32,162 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587340008943
+
+2020-04-20 10:52:32,165 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 10:52:32,165 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 10:52:32,600 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 10:52:32,600 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+
+2020-04-20 10:52:32,752 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8082@DEFAULT@DEFAULT_GROUP@@spring-cloud-gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587340012969
+
+2020-04-20 10:52:32,759 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 10:52:32,759 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 
+
+2020-04-20 10:52:33,606 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:83@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1587340010146
+
+2020-04-20 10:52:33,609 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:83:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 10:52:33,609 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-04-20 10:52:33,612 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:83:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 10:52:33,612 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.11:83_true,
+
+2020-04-20 10:52:36,164 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 10:52:36,165 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 192.168.1.11:3377_true,
+
+2020-04-20 10:52:36,434 INFO DEFAULT_GROUP@@spring-cloud-gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 10:52:36,434 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@spring-cloud-gateway-server, ips: 192.168.1.11:8082_true,
+
+2020-04-20 10:52:36,937 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 10:52:36,937 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 10:52:36,938 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 10:52:36,938 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 11:15:00,739 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8401@DEFAULT@DEFAULT_GROUP@@cloudalibaba-sentinel-service, region: unknown, msg: client timeout after 15000, last beat: 1587351197021
+
+2020-04-20 11:15:00,745 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 11:15:00,745 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 11:15:00,746 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 11:15:00,746 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 11:15:00,746 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 11:15:00,746 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 11:15:00,666 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587351197447
+
+2020-04-20 11:15:00,669 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 11:15:00,669 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 11:15:00,681 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 11:15:00,681 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 11:15:00,681 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 11:15:00,681 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 11:15:01,098 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 11:15:01,098 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+
+2020-04-20 11:15:02,327 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:83@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1587351198711
+
+2020-04-20 11:15:02,329 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:83:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 11:15:02,329 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-04-20 11:15:02,370 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:83:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 11:15:02,370 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.11:83_true,
+
+2020-04-20 13:50:24,690 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8401@DEFAULT@DEFAULT_GROUP@@cloudalibaba-sentinel-service, region: unknown, msg: client timeout after 15000, last beat: 1587356099809
+
+2020-04-20 13:50:24,690 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587356100394
+
+2020-04-20 13:50:25,156 INFO service: DEFAULT_GROUP@@cloudalibaba-sentinel-service {POS} {IP-ENABLED} valid: 192.168.1.11:8401@DEFAULT, region: unknown, msg: client beat ok
+
+2020-04-20 13:50:25,406 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 13:50:25,406 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 13:50:25,406 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 13:50:25,406 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 13:50:25,407 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 13:50:25,407 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 13:50:25,449 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 13:50:25,451 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+
+2020-04-20 13:50:29,952 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 13:50:29,952 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 13:50:29,952 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 13:50:29,952 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 16:45:17,685 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:9002@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1587370463322
+
+2020-04-20 16:45:18,429 INFO service: DEFAULT_GROUP@@nacos-payment-provider {POS} {IP-ENABLED} valid: 192.168.1.11:9002@DEFAULT, region: unknown, msg: client beat ok
+
+2020-04-20 16:45:19,940 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 16:45:19,942 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 16:45:19,942 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 16:45:19,942 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 16:45:19,943 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 16:45:19,943 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,
+
+2020-04-20 16:45:20,174 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587370466215
+
+2020-04-20 16:45:20,180 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 16:45:20,181 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 16:45:20,832 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 16:45:20,832 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+
+2020-04-20 16:45:22,958 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 16:45:22,958 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 16:45:22,959 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 16:45:22,959 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9001_true,192.168.1.11:9002_true,
+
+2020-04-20 18:28:52,005 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:3377@DEFAULT@DEFAULT_GROUP@@nacos-config-client, region: unknown, msg: client timeout after 15000, last beat: 1587372362883
+
+2020-04-20 18:28:52,007 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587372360202
+
+2020-04-20 18:28:52,008 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8401@DEFAULT@DEFAULT_GROUP@@cloudalibaba-sentinel-service, region: unknown, msg: client timeout after 15000, last beat: 1587372364329
+
+2020-04-20 18:28:52,193 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 18:28:52,193 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 18:28:52,193 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 18:28:52,193 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 18:28:52,193 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 18:28:52,193 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 18:28:52,533 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 18:28:52,533 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+
+2020-04-20 18:28:53,184 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:83@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1587372362166
+
+2020-04-20 18:28:53,191 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:83:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 18:28:53,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-04-20 18:28:53,836 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:83:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 18:28:53,836 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.11:83_true,
+
+2020-04-20 18:28:54,515 INFO service: DEFAULT_GROUP@@nacos-config-client {POS} {IP-ENABLED} valid: 192.168.1.11:3377@DEFAULT, region: unknown, msg: client beat ok
+
+2020-04-20 18:28:55,957 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 18:28:55,958 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 18:28:55,958 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 18:28:55,958 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 19:41:40,226 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:41:40,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 19:41:40,227 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:41:40,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 19:42:14,852 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:14,853 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 19:42:14,854 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:14,854 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 19:42:14,861 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 19:42:14,862 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 19:42:35,171 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:35,172 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 19:42:35,172 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:35,172 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 19:42:35,371 INFO DEFAULT_GROUP@@nacos-config-client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:3377:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:35,372 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-config-client, ips: 
+
+2020-04-20 19:42:36,093 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:83:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:36,093 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-04-20 19:42:36,122 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:36,122 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9002_true,
+
+2020-04-20 19:42:36,122 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:36,122 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.11:9002_true,
+
+2020-04-20 19:42:36,299 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:36,299 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-04-20 19:42:36,299 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:9002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:42:36,299 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-04-20 19:52:01,354 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:52:01,355 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 19:52:01,355 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 19:52:01,355 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 19:52:01,356 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 19:52:01,356 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 23:34:46,002 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8401@DEFAULT@DEFAULT_GROUP@@cloudalibaba-sentinel-service, region: unknown, msg: client timeout after 15000, last beat: 1587394537902
+
+2020-04-20 23:34:46,193 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587394538712
+
+2020-04-20 23:34:46,193 INFO service: DEFAULT_GROUP@@cloudalibaba-sentinel-service {POS} {IP-ENABLED} valid: 192.168.1.11:8401@DEFAULT, region: unknown, msg: client beat ok
+
+2020-04-20 23:34:46,226 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 23:34:46,226 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 23:34:46,227 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 23:34:46,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 23:34:46,227 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 23:34:46,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 23:34:46,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 23:34:46,227 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 23:34:46,447 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 23:34:46,447 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+
+2020-04-20 23:34:50,651 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 23:34:50,652 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 23:34:50,652 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 23:34:50,652 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 23:45:09,093 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:8401@DEFAULT@DEFAULT_GROUP@@cloudalibaba-sentinel-service, region: unknown, msg: client timeout after 15000, last beat: 1587396930726
+
+2020-04-20 23:45:09,093 INFO {POS} {IP-DISABLED} valid: 192.168.1.11:5008@DEFAULT@DEFAULT_GROUP@@gateway-server, region: unknown, msg: client timeout after 15000, last beat: 1587396931496
+
+2020-04-20 23:45:09,110 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 23:45:09,110 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 23:45:09,110 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 23:45:09,110 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 
+
+2020-04-20 23:45:09,110 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-20 23:45:09,110 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 
+
+2020-04-20 23:45:09,114 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 23:45:09,114 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 23:45:09,114 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:8401:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 23:45:09,114 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloudalibaba-sentinel-service, ips: 192.168.1.11:8401_true,
+
+2020-04-20 23:45:09,875 INFO DEFAULT_GROUP@@gateway-server {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.11:5008:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-20 23:45:09,875 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway-server, ips: 192.168.1.11:5008_true,
+

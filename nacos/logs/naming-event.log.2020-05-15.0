@@ -1,0 +1,382 @@
+2020-05-15 00:16:48,919 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:16:48,920 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:16:48,921 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:16:48,921 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:16:48,921 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:16:48,923 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:20:15,717 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:20:15,717 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 00:20:15,719 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:20:15,720 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 00:20:53,773 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:20:53,774 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:20:53,775 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:20:53,775 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:20:53,776 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:20:53,777 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:23:04,021 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:23:04,021 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 00:23:04,022 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:23:04,022 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 00:23:38,903 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:23:38,903 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:23:38,903 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:23:38,903 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:23:38,904 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:23:38,905 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:48:15,894 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:48:15,895 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-05-15 00:48:31,893 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:48:31,894 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 00:48:31,901 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 00:48:49,108 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:48:49,108 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 00:48:49,108 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 00:50:39,393 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:50:39,393 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-05-15 00:51:11,163 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:51:11,163 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 00:51:11,164 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 00:58:51,680 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:58:51,681 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 00:58:51,683 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:58:51,683 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 00:59:36,813 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:59:36,813 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:59:36,813 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 00:59:36,813 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:59:36,814 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 00:59:36,814 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 01:26:43,654 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 01:26:43,655 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 01:26:43,655 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 01:26:43,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 01:27:32,910 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 01:27:32,910 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 01:27:32,911 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 01:27:32,911 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 01:27:32,915 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 01:27:32,915 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 03:11:29,420 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9003@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589481130834
+
+2020-05-15 03:11:29,424 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9004@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589481132192
+
+2020-05-15 03:11:29,447 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 03:11:29,447 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9004_false,
+
+2020-05-15 03:11:29,448 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 03:11:29,448 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-05-15 03:11:32,479 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 03:11:32,479 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,
+
+2020-05-15 03:11:33,842 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 03:11:33,842 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 03:48:34,049 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9003@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589483537552
+
+2020-05-15 03:48:34,068 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 03:48:34,071 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9004_true,
+
+2020-05-15 03:48:36,295 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 03:48:36,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 05:56:58,162 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9003@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589491582090
+
+2020-05-15 05:56:58,164 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9004@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589491583319
+
+2020-05-15 05:56:58,177 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 05:56:58,177 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9004_false,
+
+2020-05-15 05:56:58,178 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 05:56:58,178 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-05-15 05:57:00,501 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 05:57:00,501 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,
+
+2020-05-15 05:57:01,723 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 05:57:01,723 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 06:18:30,004 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9527@DEFAULT@DEFAULT_GROUP@@cloud-gateway, region: unknown, msg: client timeout after 15000, last beat: 1589493463639
+
+2020-05-15 06:18:30,018 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 06:18:30,018 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 06:18:30,018 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 06:18:30,018 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 06:18:31,815 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9003@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589493465568
+
+2020-05-15 06:18:31,818 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 06:18:31,818 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9004_true,
+
+2020-05-15 06:18:32,132 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 06:18:32,132 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 06:18:32,132 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 06:18:32,132 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 06:18:34,060 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 06:18:34,060 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 09:00:35,002 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:84@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1589499872625
+
+2020-05-15 09:00:35,117 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 09:00:35,117 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-05-15 09:00:36,255 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 09:00:36,255 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 09:00:37,235 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9003@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589499873653
+
+2020-05-15 09:00:37,235 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9004@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589499875024
+
+2020-05-15 09:00:37,240 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 09:00:37,240 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9004_false,
+
+2020-05-15 09:00:37,242 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 09:00:37,242 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-05-15 09:00:37,277 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 09:00:37,277 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,
+
+2020-05-15 09:00:38,655 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 09:00:38,655 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 12:20:49,710 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:84@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1589504481457
+
+2020-05-15 12:20:49,726 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 12:20:49,726 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-05-15 12:20:51,449 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 12:20:51,449 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 12:20:52,413 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9003@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589504482500
+
+2020-05-15 12:20:52,413 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9004@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589504483870
+
+2020-05-15 12:20:52,417 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 12:20:52,417 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9004_false,
+
+2020-05-15 12:20:52,419 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 12:20:52,419 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 
+
+2020-05-15 12:20:52,493 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 12:20:52,493 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,
+
+2020-05-15 12:20:53,859 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 12:20:53,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 13:04:01,609 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:84@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1589516917144
+
+2020-05-15 13:04:01,618 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 13:04:01,618 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-05-15 13:04:02,025 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9527@DEFAULT@DEFAULT_GROUP@@cloud-gateway, region: unknown, msg: client timeout after 15000, last beat: 1589516916238
+
+2020-05-15 13:04:02,030 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 13:04:02,030 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 13:04:02,030 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 13:04:02,030 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 13:04:02,033 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 13:04:02,033 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 13:04:02,347 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 13:04:02,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 13:04:02,347 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 13:04:02,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 13:04:03,253 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 13:04:03,253 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 13:04:03,825 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9003@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589516918256
+
+2020-05-15 13:04:03,828 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 13:04:03,828 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9004_true,
+
+2020-05-15 13:04:04,371 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 13:04:04,371 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 14:00:02,416 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:84@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1589519088304
+
+2020-05-15 14:00:02,419 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 14:00:02,419 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-05-15 14:00:02,829 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9527@DEFAULT@DEFAULT_GROUP@@cloud-gateway, region: unknown, msg: client timeout after 15000, last beat: 1589519087420
+
+2020-05-15 14:00:02,839 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 14:00:02,839 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 14:00:02,839 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 14:00:02,839 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 14:00:02,841 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 14:00:02,841 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 14:00:03,194 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 14:00:03,194 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 14:00:03,194 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 14:00:03,194 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 14:00:04,071 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 14:00:04,072 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 21:23:34,983 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9004@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589526001486
+
+2020-05-15 21:23:34,986 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 21:23:34,987 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,
+
+2020-05-15 21:23:35,115 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 21:23:35,115 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 23:11:47,002 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:84@DEFAULT@DEFAULT_GROUP@@nacos-order-consumer, region: unknown, msg: client timeout after 15000, last beat: 1589549072444
+
+2020-05-15 23:11:47,131 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 23:11:47,131 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 
+
+2020-05-15 23:11:47,143 INFO DEFAULT_GROUP@@nacos-order-consumer {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:84:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 23:11:47,143 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-order-consumer, ips: 192.168.1.2:84_true,
+
+2020-05-15 23:11:47,373 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9527@DEFAULT@DEFAULT_GROUP@@cloud-gateway, region: unknown, msg: client timeout after 15000, last beat: 1589549076626
+
+2020-05-15 23:11:47,378 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 23:11:47,379 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 23:11:47,379 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 23:11:47,379 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 23:11:47,381 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 23:11:47,381 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 
+
+2020-05-15 23:11:48,875 INFO {POS} {IP-DISABLED} valid: 192.168.1.2:9004@DEFAULT@DEFAULT_GROUP@@nacos-payment-provider, region: unknown, msg: client timeout after 15000, last beat: 1589549075195
+
+2020-05-15 23:11:48,883 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-05-15 23:11:48,883 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,
+
+2020-05-15 23:11:49,068 INFO DEFAULT_GROUP@@nacos-payment-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9004:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 23:11:49,068 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@nacos-payment-provider, ips: 192.168.1.2:9003_true,192.168.1.2:9004_true,
+
+2020-05-15 23:11:50,501 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 23:11:50,501 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+
+2020-05-15 23:11:50,502 INFO DEFAULT_GROUP@@cloud-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.1.2:9527:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-05-15 23:11:50,502 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@cloud-gateway, ips: 192.168.1.2:9527_true,
+

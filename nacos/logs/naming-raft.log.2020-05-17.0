@@ -1,0 +1,24 @@
+2020-05-17 01:10:39,561 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 01:10:42,917 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 01:26:57,480 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 01:26:59,485 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 01:29:15,435 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 01:29:17,436 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 20:39:15,021 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 20:39:16,721 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 21:22:58,388 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 21:23:00,389 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.1.2","key":"192.168.1.2:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-05-17 21:28:07,149 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@serverAddr
+
+2020-05-17 23:56:54,987 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@seata-account-service
+

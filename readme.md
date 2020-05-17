@@ -127,5 +127,19 @@ feign日志 查看请求详细信息 请求头...
 
 spring clound gateway 网关
 
+seata
+root
+root123
+
+修改配置信息 启动 nacos 再启动seata
+订单 库存 账号服务
+CREATE DATABASE seata
+CREATE DATABASE seata_order;
+CREATE DATABASE seata_storage;
+CREATE DATABASE seata_account;
+
+分别建表 
+
+启动nacos 再seata
 
 

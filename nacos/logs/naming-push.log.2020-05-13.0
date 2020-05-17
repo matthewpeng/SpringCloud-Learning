@@ -1,0 +1,116 @@
+2020-05-13 05:05:01,570 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-05-13 05:31:52,990 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 05:31:56,904 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 05:32:38,142 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 05:33:06,065 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 05:33:13,359 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 05:33:21,441 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-05-13 05:41:26,053 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 05:46:07,919 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 05:48:17,053 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 05:48:50,052 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 05:49:27,648 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:05:17,299 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:05:53,577 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:06:58,280 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:07:33,907 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:11:41,085 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:12:17,510 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:26:56,766 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 06:26:56,768 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.1.2:55983, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55983,429793315467638
+
+2020-05-13 06:26:56,769 INFO send udp packet: 192.168.1.2,55983,429793315467638
+
+2020-05-13 06:26:56,790 INFO received ack: {"type": "push-ack", "lastRefTime":"429793315467638", "data":""} from: 192.168.1.2:, cost: 55983 ms, unacked: 21, total push: 0
+
+2020-05-13 06:28:36,466 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 06:28:36,467 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.1.2:55983, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55983,429893012167833
+
+2020-05-13 06:28:36,468 INFO send udp packet: 192.168.1.2,55983,429893012167833
+
+2020-05-13 06:28:36,476 INFO received ack: {"type": "push-ack", "lastRefTime":"429893012167833", "data":""} from: 192.168.1.2:, cost: 55983 ms, unacked: 8, total push: 0
+
+2020-05-13 06:30:18,096 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 06:30:18,097 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.1.2:55983, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55983,429994613163560
+
+2020-05-13 06:30:18,097 INFO send udp packet: 192.168.1.2,55983,429994613163560
+
+2020-05-13 06:30:18,102 INFO received ack: {"type": "push-ack", "lastRefTime":"429994613163560", "data":""} from: 192.168.1.2:, cost: 55983 ms, unacked: 5, total push: 0
+
+2020-05-13 06:31:03,582 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 06:31:03,583 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.1.2:55983, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55983,430040097380757
+
+2020-05-13 06:31:03,583 INFO send udp packet: 192.168.1.2,55983,430040097380757
+
+2020-05-13 06:31:03,587 INFO received ack: {"type": "push-ack", "lastRefTime":"430040097380757", "data":""} from: 192.168.1.2:, cost: 55983 ms, unacked: 4, total push: 0
+
+2020-05-13 06:35:53,659 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:35:57,700 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:39:58,398 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 06:39:58,400 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.1.2:55983, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55983,430574898630680
+
+2020-05-13 06:39:58,400 INFO send udp packet: 192.168.1.2,55983,430574898630680
+
+2020-05-13 06:39:58,405 INFO received ack: {"type": "push-ack", "lastRefTime":"430574898630680", "data":""} from: 192.168.1.2:, cost: 55983 ms, unacked: 5, total push: 0
+
+2020-05-13 06:40:07,933 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 06:40:07,933 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.1.2:55983, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55983,430584432220801
+
+2020-05-13 06:40:07,934 INFO send udp packet: 192.168.1.2,55983,430584432220801
+
+2020-05-13 06:40:07,938 INFO received ack: {"type": "push-ack", "lastRefTime":"430584432220801", "data":""} from: 192.168.1.2:, cost: 55983 ms, unacked: 4, total push: 0
+
+2020-05-13 06:45:48,819 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 06:59:31,909 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-05-13 07:06:06,013 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-05-13 07:06:58,078 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-05-13 13:30:01,013 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 13:30:05,651 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 22:30:49,008 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-05-13 22:30:50,544 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-05-13 23:32:48,967 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-05-13 23:33:36,789 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 23:33:39,199 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 23:33:49,078 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-05-13 23:39:21,052 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-05-13 23:39:59,317 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+

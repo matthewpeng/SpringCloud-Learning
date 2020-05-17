@@ -1,0 +1,318 @@
+2020-05-18 00:03:44,713 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 00:08:48,909 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-05-18 00:08:48,914 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,555403305723663
+
+2020-05-18 00:08:48,914 INFO send udp packet: 192.168.1.2,62573,555403305723663
+
+2020-05-18 00:08:48,915 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:64820, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,64820,555403305723663
+
+2020-05-18 00:08:48,915 INFO send udp packet: 192.168.1.2,64820,555403305723663
+
+2020-05-18 00:08:48,915 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:59173, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,59173,555403305723663
+
+2020-05-18 00:08:48,915 INFO send udp packet: 192.168.1.2,59173,555403305723663
+
+2020-05-18 00:08:48,930 INFO received ack: {"type": "push-ack", "lastRefTime":"555403305723663", "data":""} from: 192.168.1.2:, cost: 59173 ms, unacked: 15, total push: 2
+
+2020-05-18 00:08:48,933 INFO received ack: {"type": "push-ack", "lastRefTime":"555403305723663", "data":""} from: 192.168.1.2:, cost: 64820 ms, unacked: 18, total push: 1
+
+2020-05-18 00:08:48,949 INFO received ack: {"type": "push-ack", "lastRefTime":"555403305723663", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 34, total push: 0
+
+2020-05-18 00:27:02,414 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2020-05-18 00:29:54,013 INFO DEFAULT_GROUP@@serverAddr is changed, add it to push queue.
+
+2020-05-18 00:29:54,014 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:55916, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55916,556668337770904
+
+2020-05-18 00:29:54,014 INFO send udp packet: 192.168.1.2,55916,556668337770904
+
+2020-05-18 00:29:54,015 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:55219, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55219,556668337770904
+
+2020-05-18 00:29:54,015 INFO send udp packet: 192.168.1.2,55219,556668337770904
+
+2020-05-18 00:29:54,015 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,556668337770904
+
+2020-05-18 00:29:54,015 INFO send udp packet: 192.168.1.2,62573,556668337770904
+
+2020-05-18 00:29:54,015 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:64820, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,64820,556668337770904
+
+2020-05-18 00:29:54,015 INFO send udp packet: 192.168.1.2,64820,556668337770904
+
+2020-05-18 00:29:54,016 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:55918, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,55918,556668337770904
+
+2020-05-18 00:29:54,016 INFO send udp packet: 192.168.1.2,55918,556668337770904
+
+2020-05-18 00:29:54,016 INFO serviceName: DEFAULT_GROUP@@serverAddr changed, schedule push for: 192.168.1.2:59173, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,59173,556668337770904
+
+2020-05-18 00:29:54,016 INFO send udp packet: 192.168.1.2,59173,556668337770904
+
+2020-05-18 00:29:54,026 INFO received ack: {"type": "push-ack", "lastRefTime":"556668337770904", "data":""} from: 192.168.1.2:, cost: 64820 ms, unacked: 11, total push: 5
+
+2020-05-18 00:29:54,026 INFO received ack: {"type": "push-ack", "lastRefTime":"556668337770904", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 11, total push: 4
+
+2020-05-18 00:29:54,027 INFO received ack: {"type": "push-ack", "lastRefTime":"556668337770904", "data":""} from: 192.168.1.2:, cost: 59173 ms, unacked: 11, total push: 3
+
+2020-05-18 00:29:54,066 INFO received ack: {"type": "push-ack", "lastRefTime":"556668337770904", "data":""} from: 192.168.1.2:, cost: 55918 ms, unacked: 50, total push: 2
+
+2020-05-18 00:29:54,126 INFO received ack: {"type": "push-ack", "lastRefTime":"556668337770904", "data":""} from: 192.168.1.2:, cost: 55219 ms, unacked: 111, total push: 1
+
+2020-05-18 00:29:54,149 INFO received ack: {"type": "push-ack", "lastRefTime":"556668337770904", "data":""} from: 192.168.1.2:, cost: 55916 ms, unacked: 135, total push: 0
+
+2020-05-18 00:33:06,950 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2020-05-18 00:33:06,951 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,556861269854464
+
+2020-05-18 00:33:06,951 INFO send udp packet: 192.168.1.2,62573,556861269854464
+
+2020-05-18 00:33:06,959 INFO received ack: {"type": "push-ack", "lastRefTime":"556861269854464", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 8, total push: 0
+
+2020-05-18 00:33:49,612 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2020-05-18 00:33:49,613 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,556903930984559
+
+2020-05-18 00:33:49,614 INFO send udp packet: 192.168.1.2,62573,556903930984559
+
+2020-05-18 00:33:49,616 INFO received ack: {"type": "push-ack", "lastRefTime":"556903930984559", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 2, total push: 0
+
+2020-05-18 00:40:22,715 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2020-05-18 00:40:22,717 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,557297022784886
+
+2020-05-18 00:40:22,717 INFO send udp packet: 192.168.1.2,62573,557297022784886
+
+2020-05-18 00:40:22,719 INFO received ack: {"type": "push-ack", "lastRefTime":"557297022784886", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 2, total push: 0
+
+2020-05-18 00:43:44,386 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 00:43:44,393 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,557498686719185
+
+2020-05-18 00:43:44,394 INFO send udp packet: 192.168.1.2,62573,557498686719185
+
+2020-05-18 00:43:44,575 INFO received ack: {"type": "push-ack", "lastRefTime":"557498686719185", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 181, total push: 0
+
+2020-05-18 00:44:29,574 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2020-05-18 00:44:29,576 INFO serviceName: DEFAULT_GROUP@@seata-storage-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,557543874183796
+
+2020-05-18 00:44:29,579 INFO send udp packet: 192.168.1.2,62573,557543874183796
+
+2020-05-18 00:44:29,582 INFO received ack: {"type": "push-ack", "lastRefTime":"557543874183796", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 6, total push: 0
+
+2020-05-18 00:46:46,421 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 00:46:46,424 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,557680716634937
+
+2020-05-18 00:46:46,424 INFO send udp packet: 192.168.1.2,62573,557680716634937
+
+2020-05-18 00:46:46,427 INFO received ack: {"type": "push-ack", "lastRefTime":"557680716634937", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 3, total push: 0
+
+2020-05-18 00:58:06,145 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 00:58:06,147 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,558360390911292
+
+2020-05-18 00:58:06,147 INFO send udp packet: 192.168.1.2,62573,558360390911292
+
+2020-05-18 00:58:06,152 INFO received ack: {"type": "push-ack", "lastRefTime":"558360390911292", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 5, total push: 0
+
+2020-05-18 00:58:50,221 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 00:58:50,223 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,558404465771068
+
+2020-05-18 00:58:50,223 INFO send udp packet: 192.168.1.2,62573,558404465771068
+
+2020-05-18 00:58:50,228 INFO received ack: {"type": "push-ack", "lastRefTime":"558404465771068", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 5, total push: 0
+
+2020-05-18 01:03:04,148 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:03:04,149 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,558658384909210
+
+2020-05-18 01:03:04,150 INFO send udp packet: 192.168.1.2,62573,558658384909210
+
+2020-05-18 01:03:04,150 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:57145, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,57145,558658384909210
+
+2020-05-18 01:03:04,150 INFO send udp packet: 192.168.1.2,57145,558658384909210
+
+2020-05-18 01:03:04,151 INFO received ack: {"type": "push-ack", "lastRefTime":"558658384909210", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 1, total push: 1
+
+2020-05-18 01:03:04,161 INFO received ack: {"type": "push-ack", "lastRefTime":"558658384909210", "data":""} from: 192.168.1.2:, cost: 57145 ms, unacked: 11, total push: 0
+
+2020-05-18 01:03:46,497 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:03:46,499 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,558700732530663
+
+2020-05-18 01:03:46,499 INFO send udp packet: 192.168.1.2,62573,558700732530663
+
+2020-05-18 01:03:46,499 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:57145, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,57145,558700732530663
+
+2020-05-18 01:03:46,499 INFO send udp packet: 192.168.1.2,57145,558700732530663
+
+2020-05-18 01:03:46,504 INFO received ack: {"type": "push-ack", "lastRefTime":"558700732530663", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 5, total push: 1
+
+2020-05-18 01:03:46,509 INFO received ack: {"type": "push-ack", "lastRefTime":"558700732530663", "data":""} from: 192.168.1.2:, cost: 57145 ms, unacked: 10, total push: 0
+
+2020-05-18 01:21:01,140 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 01:21:01,143 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,559735316709902
+
+2020-05-18 01:21:01,143 INFO send udp packet: 192.168.1.2,62573,559735316709902
+
+2020-05-18 01:21:01,154 INFO received ack: {"type": "push-ack", "lastRefTime":"559735316709902", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 11, total push: 0
+
+2020-05-18 01:21:49,563 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 01:21:49,566 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,559783738696874
+
+2020-05-18 01:21:49,566 INFO send udp packet: 192.168.1.2,62573,559783738696874
+
+2020-05-18 01:21:49,568 INFO received ack: {"type": "push-ack", "lastRefTime":"559783738696874", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 2, total push: 0
+
+2020-05-18 01:23:35,050 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 01:23:35,051 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,559889221309810
+
+2020-05-18 01:23:35,051 INFO send udp packet: 192.168.1.2,62573,559889221309810
+
+2020-05-18 01:23:35,053 INFO received ack: {"type": "push-ack", "lastRefTime":"559889221309810", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 2, total push: 0
+
+2020-05-18 01:24:20,029 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 01:24:20,031 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,559934199210557
+
+2020-05-18 01:24:20,031 INFO send udp packet: 192.168.1.2,62573,559934199210557
+
+2020-05-18 01:24:20,034 INFO received ack: {"type": "push-ack", "lastRefTime":"559934199210557", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 3, total push: 0
+
+2020-05-18 01:24:38,957 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:24:38,960 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,559953127672878
+
+2020-05-18 01:24:38,960 INFO send udp packet: 192.168.1.2,62573,559953127672878
+
+2020-05-18 01:24:38,965 INFO received ack: {"type": "push-ack", "lastRefTime":"559953127672878", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 5, total push: 0
+
+2020-05-18 01:25:21,236 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:25:21,238 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,559995404392840
+
+2020-05-18 01:25:21,238 INFO send udp packet: 192.168.1.2,62573,559995404392840
+
+2020-05-18 01:25:21,239 INFO received ack: {"type": "push-ack", "lastRefTime":"559995404392840", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 1, total push: 0
+
+2020-05-18 01:29:08,337 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:29:08,337 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,560222497176616
+
+2020-05-18 01:29:08,337 INFO send udp packet: 192.168.1.2,62573,560222497176616
+
+2020-05-18 01:29:08,338 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:50480, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,50480,560222497176616
+
+2020-05-18 01:29:08,338 INFO send udp packet: 192.168.1.2,50480,560222497176616
+
+2020-05-18 01:29:08,349 INFO received ack: {"type": "push-ack", "lastRefTime":"560222497176616", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 12, total push: 1
+
+2020-05-18 01:29:08,350 INFO received ack: {"type": "push-ack", "lastRefTime":"560222497176616", "data":""} from: 192.168.1.2:, cost: 50480 ms, unacked: 12, total push: 0
+
+2020-05-18 01:29:52,286 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:29:52,292 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,560266450515235
+
+2020-05-18 01:29:52,292 INFO send udp packet: 192.168.1.2,62573,560266450515235
+
+2020-05-18 01:29:52,293 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:50480, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,50480,560266450515235
+
+2020-05-18 01:29:52,293 INFO send udp packet: 192.168.1.2,50480,560266450515235
+
+2020-05-18 01:29:52,297 INFO received ack: {"type": "push-ack", "lastRefTime":"560266450515235", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 5, total push: 1
+
+2020-05-18 01:29:52,298 INFO received ack: {"type": "push-ack", "lastRefTime":"560266450515235", "data":""} from: 192.168.1.2:, cost: 50480 ms, unacked: 5, total push: 0
+
+2020-05-18 01:33:07,106 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 01:33:07,107 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,560461228546357
+
+2020-05-18 01:33:07,107 INFO send udp packet: 192.168.1.2,62573,560461228546357
+
+2020-05-18 01:33:07,112 INFO received ack: {"type": "push-ack", "lastRefTime":"560461228546357", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 5, total push: 0
+
+2020-05-18 01:33:51,029 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 01:33:51,031 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,560505150626065
+
+2020-05-18 01:33:51,031 INFO send udp packet: 192.168.1.2,62573,560505150626065
+
+2020-05-18 01:33:51,033 INFO received ack: {"type": "push-ack", "lastRefTime":"560505150626065", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 2, total push: 0
+
+2020-05-18 01:41:04,410 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:41:04,412 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,560938518651798
+
+2020-05-18 01:41:04,412 INFO send udp packet: 192.168.1.2,62573,560938518651798
+
+2020-05-18 01:41:04,412 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:53692, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,53692,560938518651798
+
+2020-05-18 01:41:04,412 INFO send udp packet: 192.168.1.2,53692,560938518651798
+
+2020-05-18 01:41:04,417 INFO received ack: {"type": "push-ack", "lastRefTime":"560938518651798", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 5, total push: 1
+
+2020-05-18 01:41:04,424 INFO received ack: {"type": "push-ack", "lastRefTime":"560938518651798", "data":""} from: 192.168.1.2:, cost: 53692 ms, unacked: 12, total push: 0
+
+2020-05-18 01:41:47,782 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:41:47,784 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,560981889458968
+
+2020-05-18 01:41:47,784 INFO send udp packet: 192.168.1.2,62573,560981889458968
+
+2020-05-18 01:41:47,784 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:53692, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,53692,560981889458968
+
+2020-05-18 01:41:47,784 INFO send udp packet: 192.168.1.2,53692,560981889458968
+
+2020-05-18 01:41:47,788 INFO received ack: {"type": "push-ack", "lastRefTime":"560981889458968", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 4, total push: 1
+
+2020-05-18 01:41:47,789 INFO received ack: {"type": "push-ack", "lastRefTime":"560981889458968", "data":""} from: 192.168.1.2:, cost: 53692 ms, unacked: 5, total push: 0
+
+2020-05-18 01:43:39,780 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:43:39,781 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,561093883215438
+
+2020-05-18 01:43:39,781 INFO send udp packet: 192.168.1.2,62573,561093883215438
+
+2020-05-18 01:43:39,781 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:53692, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,53692,561093883215438
+
+2020-05-18 01:43:39,781 INFO send udp packet: 192.168.1.2,53692,561093883215438
+
+2020-05-18 01:43:39,785 INFO received ack: {"type": "push-ack", "lastRefTime":"561093883215438", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 4, total push: 1
+
+2020-05-18 01:43:39,785 INFO received ack: {"type": "push-ack", "lastRefTime":"561093883215438", "data":""} from: 192.168.1.2:, cost: 53692 ms, unacked: 4, total push: 0
+
+2020-05-18 01:44:47,804 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-05-18 01:44:47,806 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,561161905599437
+
+2020-05-18 01:44:47,806 INFO send udp packet: 192.168.1.2,62573,561161905599437
+
+2020-05-18 01:44:47,806 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.1.2:53692, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,53692,561161905599437
+
+2020-05-18 01:44:47,807 INFO send udp packet: 192.168.1.2,53692,561161905599437
+
+2020-05-18 01:44:47,810 INFO received ack: {"type": "push-ack", "lastRefTime":"561161905599437", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 4, total push: 1
+
+2020-05-18 01:44:47,811 INFO received ack: {"type": "push-ack", "lastRefTime":"561161905599437", "data":""} from: 192.168.1.2:, cost: 53692 ms, unacked: 4, total push: 0
+
+2020-05-18 01:46:54,276 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 01:46:54,278 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,561288373851131
+
+2020-05-18 01:46:54,278 INFO send udp packet: 192.168.1.2,62573,561288373851131
+
+2020-05-18 01:46:54,281 INFO received ack: {"type": "push-ack", "lastRefTime":"561288373851131", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 3, total push: 0
+
+2020-05-18 01:47:53,234 INFO DEFAULT_GROUP@@seata-order-service is changed, add it to push queue.
+
+2020-05-18 01:47:53,236 INFO serviceName: DEFAULT_GROUP@@seata-order-service changed, schedule push for: 192.168.1.2:62573, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.2,62573,561347330306084
+
+2020-05-18 01:47:53,236 INFO send udp packet: 192.168.1.2,62573,561347330306084
+
+2020-05-18 01:47:53,239 INFO received ack: {"type": "push-ack", "lastRefTime":"561347330306084", "data":""} from: 192.168.1.2:, cost: 62573 ms, unacked: 3, total push: 0
+

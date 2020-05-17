@@ -1,0 +1,64 @@
+2020-04-18 07:13:31,828 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-04-18 07:15:47,982 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-04-18 07:17:10,528 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-04-18 07:30:25,727 INFO DEFAULT_GROUP@@nacos-config-client is changed, add it to push queue.
+
+2020-04-18 07:31:40,397 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-04-18 07:31:40,409 INFO serviceName: DEFAULT_GROUP@@nacos-payment-provider changed, schedule push for: 192.168.1.11:55054, agent: Nacos-Java-Client:v1.1.1, key: 192.168.1.11,55054,34050154281927
+
+2020-04-18 07:31:40,410 INFO send udp packet: 192.168.1.11,55054,34050154281927
+
+2020-04-18 07:31:40,639 INFO DEFAULT_GROUP@@nacos-order-consumer is changed, add it to push queue.
+
+2020-04-18 07:31:40,688 INFO DEFAULT_GROUP@@nacos-config-client is changed, add it to push queue.
+
+2020-04-18 07:31:50,420 INFO retry to push data, key: 192.168.1.11,55054,34050154281927
+
+2020-04-18 07:31:50,422 INFO send udp packet: 192.168.1.11,55054,34050154281927
+
+2020-04-18 07:32:00,425 INFO retry to push data, key: 192.168.1.11,55054,34050154281927
+
+2020-04-18 07:32:00,426 WARN max re-push times reached, retry times 2, key: 192.168.1.11,55054,34050154281927
+
+2020-04-18 07:33:29,054 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-04-18 07:33:54,734 INFO DEFAULT_GROUP@@nacos-payment-provider is changed, add it to push queue.
+
+2020-04-18 18:11:03,396 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:22:49,166 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:22:49,166 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:22:54,561 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:48:55,713 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:49:32,182 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:49:53,832 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:50:27,402 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:52:35,808 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 18:53:09,705 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 19:42:23,133 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 19:42:54,767 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 20:34:33,804 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 20:35:09,229 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 20:47:53,754 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 20:48:29,999 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
+2020-04-18 23:31:31,607 INFO DEFAULT_GROUP@@cloudalibaba-sentinel-service is changed, add it to push queue.
+
