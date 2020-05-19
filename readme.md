@@ -142,4 +142,5 @@ CREATE DATABASE seata_account;
 
 启动nacos 再seata
 
+AT模式 第一阶段 有before image after image  一个失败反补
 
