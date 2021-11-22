@@ -1,18 +1,11 @@
 package com.matthew.practice.lb;
 
-import com.netflix.client.ClientFactory;
-import com.netflix.client.http.HttpRequest;
-import com.netflix.client.http.HttpResponse;
-import com.netflix.config.ConfigurationManager;
-import com.netflix.loadbalancer.*;
-import com.netflix.niws.client.http.RestClient;
-import feign.Feign;
-import feign.RequestLine;
-import org.springframework.cloud.netflix.ribbon.RibbonClient;
+import com.netflix.loadbalancer.BaseLoadBalancer;
+import com.netflix.loadbalancer.ILoadBalancer;
+import com.netflix.loadbalancer.IRule;
+import com.netflix.loadbalancer.Server;
 
-import java.io.IOException;
 import java.util.List;
-import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**

@@ -14,8 +14,9 @@ http://localhost:8848/nacos  nacos/nacos
 服务持久化到数据库
 application.properties
 
+spring.datasource.platform=mysql
 db.num=1
-db.url.0=jdbc:mysql://127.0.0.1:3306/nacos_config?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+db.url.0=jdbc:mysql://8.210.44.121:3306/nacos_config?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
 db.user=root
 db.password=root123
 
@@ -143,4 +144,16 @@ CREATE DATABASE seata_account;
 启动nacos 再seata
 
 AT模式 第一阶段 有before image after image  一个失败反补
+
+8.210.44.121
+Password.
+
+
+service mysql start
+chkconfig --list
+sh /usr/local/nacos/bin/startup.sh -m standalone
+
+
+erlang 22 对应  rabbitmq 3.8.3
+systemctl status rabbitmq-server
 
