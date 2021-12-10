@@ -157,3 +157,7 @@ sh /usr/local/nacos/bin/startup.sh -m standalone
 erlang 22 对应  rabbitmq 3.8.3
 systemctl status rabbitmq-server
 
+启动teamspeak
+./ts3server_startscript.sh status
+
+
