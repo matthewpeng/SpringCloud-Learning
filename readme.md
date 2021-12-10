@@ -145,7 +145,7 @@ CREATE DATABASE seata_account;
 
 AT模式 第一阶段 有before image after image  一个失败反补
 
-8.210.44.121
+43.154.70.143
 Password.
 
 
