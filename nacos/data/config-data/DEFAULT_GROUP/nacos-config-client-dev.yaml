@@ -1,8 +1,0 @@
-config: 
-    info: from config center , nacos-config-client-dev.yaml , version = 2;
-nacos:
-  config:
-    server_addr: 127.0.0.1:8848
-    data_id: zuul-refresh-dev.json
-    group: DEFAULT_GROUP
-    namespace: ffa52718-ea89-4510-a3a9-c0085ae5ba67

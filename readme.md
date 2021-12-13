@@ -16,7 +16,7 @@ application.properties
 
 spring.datasource.platform=mysql
 db.num=1
-db.url.0=jdbc:mysql://8.210.44.121:3306/nacos_config?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+db.url.0=jdbc:mysql://43.154.70.143:3306/nacos_config?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
 db.user=root
 db.password=root123
 
