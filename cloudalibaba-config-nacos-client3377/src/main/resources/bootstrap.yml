@@ -3,27 +3,27 @@ server:
   port: 3377
 
 spring:
-#  autoconfigure:
-#    exclude: org.springframework.boot.autoconfigure.amqp.RabbitAutoConfiguration # 解决rabbitmq 自动配置报错
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.amqp.RabbitAutoConfiguration # 解决rabbitmq 自动配置报错
   application:
     name: nacos-config-client
   cloud:
-#    stream:
-#      binders: # 在此处配置要绑定的rabbitmq的服务信息；
-#        defaultRabbit: # 表示定义的名称，用于于binding整合
-#          type: rabbit # 消息组件类型
-#          environment: # 设置rabbitmq的相关的环境配置
-#            spring:
-#              rabbitmq:
-#                host: 43.154.70.143
-#                port: 5672
-#                username: root
-#                password: root
-#      bindings: # 服务的整合处理
-#        output: # 这个名字是一个通道的名称  output 提供者
-#          destination: studyExchange # 表示要使用的Exchange名称定义
-#          content-type: application/json # 设置消息类型，本次为json，文本则设置“text/plain”
-#          binder: defaultRabbit # 设置要绑定的消息服务的具体设置
+    stream:
+      binders: # 在此处配置要绑定的rabbitmq的服务信息；
+        defaultRabbit: # 表示定义的名称，用于于binding整合
+          type: rabbit # 消息组件类型
+          environment: # 设置rabbitmq的相关的环境配置
+            spring:
+              rabbitmq:
+                host: 43.154.70.143
+                port: 5672
+                username: root
+                password: root
+      bindings: # 服务的整合处理
+        output: # 这个名字是一个通道的名称  output 提供者
+          destination: studyExchange # 表示要使用的Exchange名称定义
+          content-type: application/json # 设置消息类型，本次为json，文本则设置“text/plain”
+          binder: defaultRabbit # 设置要绑定的消息服务的具体设置
     nacos:
       discovery:
         server-addr: 43.154.70.143:8848 #Nacos服务注册中心地址
